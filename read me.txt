@@ -50,8 +50,18 @@ Páginas com Layout responsivo utilizando Bootstrap.
 
 API 
 
-Disponível no GITHUB
-Implantada no Heroku
+Disponível no GITHUB -> https://github.com/ecaramujo/upapi
+Realizada a build no Heroku -> 
+
+--> Build succeeded!
+--> Discovering process types
+    Procfile declares types     -> (none)
+    Default types for buildpack -> web
+--> Compressing...
+    Done: 34.1M
+--> Launching...
+    Released v4
+    https://senacnodejsbiblioteca.herokuapp.com/ deployed to Heroku
 
 
 
